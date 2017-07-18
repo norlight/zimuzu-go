@@ -15,8 +15,8 @@
 
 ## Screenshot
 
-![热门](github.com/norlight/zimuzu-go/screenshot/zmzh.png)
+![热门](https://raw.githubusercontent.com/norlight/zimuzu-go/master/screenshot/zmzh.png)
 
-![搜索](github.com/norlight/zimuzu-go/screenshot/zmz_search.png)
+![搜索](https://raw.githubusercontent.com/norlight/zimuzu-go/master/screenshot/zmz_search.png)
 
-![筛选](github.com/norlight/zimuzu-go/screenshot/zmz_filter.png)
+![筛选](https://raw.githubusercontent.com/norlight/zimuzu-go/master/screenshot/zmz_filter.png)
